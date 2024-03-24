@@ -28,7 +28,7 @@ def build_iupac_list():
       Element(  9, "F" , "fluorine"),       Element( 10, "Ne", "neon"),
       Element( 11, "Na", "sodium"),         Element( 12, "Mg", "magnesium"),
       Element( 13, "Al", "aluminium"),      Element( 14, "Si", "silicon"),
-      Element( 15, "P" , "phosphorus"),     Element( 16, "S",  "sulphur"),
+      Element( 15, "P" , "phosphorus"),     Element( 16, "S",  "sulfur"),
       Element( 17, "Cl", "chlorine"),       Element( 18, "Ar", "argon"),
       Element( 19, "K" , "potassium"),      Element( 20, "Ca", "calcium"),
       Element( 21, "Sc", "scandium"),       Element( 22, "Ti", "titanium"),
